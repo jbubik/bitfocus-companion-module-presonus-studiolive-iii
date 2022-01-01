@@ -1,7 +1,12 @@
-## companion-module-template-es6
+## companion-module-presonus-studiolive-iii
 
 ### Configuration
-* Instructions here about information needed to connect to the device/software.
+* clone the module and install dependencies into your Companion directory
+```
+git clone -b master https://github.com/featherbear/bitfocus-companion-module-presonus-studiolive-iii.git module-local-dev/companion-module-presonus-studiolive-iii
+cd module-local-dev/companion-module-presonus-studiolive-iii
+npm install
+```
 
 ### Available Actions
 * List
